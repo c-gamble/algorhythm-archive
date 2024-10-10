@@ -1,0 +1,7 @@
+env/
+.env
+dev.ipynb
+*/__pycache__/
+__pycache__/
+Dockerfile_playwright
+env-dev/
