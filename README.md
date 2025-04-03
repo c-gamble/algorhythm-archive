@@ -4,4 +4,4 @@ I worked on Algorhythm over the summer of 2024 with my friends. We trained a few
 
 ## Demo
 
-A short demo is [linked](./algorhythm_demo.mp4) in this repo.
+A short demo is available [here](https://youtu.be/mlePecP2E9A).
